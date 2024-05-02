@@ -7,7 +7,7 @@ Este projeto visa investigar a estrutura de dados e a aplicação do algoritmo D
 
 O projeto é dividido em duas partes principais, cada uma abordando diferentes aspectos da investigação:
 
-1. **Parte 1**: Inclui a implementação inicial do projeto, abrangendo:
+- **Parte 1**: Inclui a implementação inicial do projeto, abrangendo:
     - Entrada do arquivo .txt;
     - Armazenamento dos dados em uma estrutura de matriz de adjacência;
     - Verificação de adjacência entre vértices;
@@ -16,7 +16,7 @@ O projeto é dividido em duas partes principais, cada uma abordando diferentes a
     - Exploração de todas as arestas do grafo;
     - Aplicação de algoritmos de busca para detecção de ciclos.
 
-2. **Parte 2**: Trata da manipulação subsequente após gerar um novo arquivo de grafo e sua visualização:
+- **Parte 2**: Trata da manipulação subsequente após gerar um novo arquivo de grafo e sua visualização:
     - Leitura de um arquivo GEXF gerado na Parte 1;
     - Visualização do grafo utilizando bibliotecas gráficas especializadas.
 
