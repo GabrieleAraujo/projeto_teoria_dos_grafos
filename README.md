@@ -23,7 +23,16 @@ O projeto é dividido em duas partes principais, cada uma abordando diferentes a
 ## Como Executar
 
 Para executar o projeto, siga estas etapas:
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter Python instalado em seu ambiente.
-3. Execute o script principal `main.py`.
 
+1. **Clone este repositório em sua máquina local.**
+   ```bash
+   git clone https://github.com/GabrieleAraujo/projeto_teoria_dos_grafos.git
+2. Certifique-se de ter Python instalado em seu ambiente.
+   ```
+   python --version
+3. Instale a biblioteca NetworkX.
+   ```
+   pip install networkx
+5. Execute o script principal main.py.
+   ```bash
+   python main.py
