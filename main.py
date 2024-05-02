@@ -6,8 +6,8 @@ def main():
     path = 'Projeto_Grafos_GabrieleAraujo/data/grafo.txt'
     grafo = Grafo(path)
 
-    # print("Matriz de Adjacência:\n",
-    #       grafo.matriz_adj)
+    print("Matriz de Adjacência:\n",
+          grafo.matriz_adj)
     
     # Verificar adjacentes
     grafo.verificar_adjacencia()
