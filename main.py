@@ -9,14 +9,14 @@ def main():
     # print("Matriz de Adjacência:\n",
     #       grafo.matriz_adj)
     
-    # # Verificar adjacentes
-    # grafo.verificar_adjacencia()
+    # Verificar adjacentes
+    grafo.verificar_adjacencia()
 
-    # #Verificar grau de um vértice 
-    # grafo.verificar_grau()
+    #Verificar grau de um vértice 
+    grafo.verificar_grau()
 
-    # #Buscar todos os vizinhos
-    # grafo.verificar_vizinhos()
+    #Buscar todos os vizinhos
+    grafo.verificar_vizinhos()
 
     #Visitar todas as arestas
     print("Arestas do grafo:", grafo.visitar_arestas())
