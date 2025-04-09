@@ -24,15 +24,15 @@ The project is divided into two main parts, each addressing different aspects of
 
 To run the project, follow these steps:
 
-1. **Clone this repository on your local machine.
+1. **Clone this repository on your local machine**
    ```bash
    git clone https://github.com/GabrieleAraujo/projeto_teoria_dos_grafos.git
-2. Make sure you have Python installed in your environment.
+2. Make sure you have Python installed in your environment
    ```
    python --version
-3. Install the NetworkX library.
+3. Install the NetworkX library
    ```
    pip install networkx
-5. Run the main script main.py.
+5. Run the main script main.py
    ```bash
    python main.py
