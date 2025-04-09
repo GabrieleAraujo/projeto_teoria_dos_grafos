@@ -1,38 +1,38 @@
-# Projeto de Teoria dos Grafos - Gabriele Araujo
+# Graph Theory Project - Gabriele Araujo
 
-Este projeto visa investigar a estrutura de dados e a aplicação do algoritmo DFS para a detecção de ciclos em grafos. A implementação e execução das tarefas são realizadas utilizando a linguagem de programação Python.
+This project aims to investigate data structure and DFS algorithm application for detecting cycles in graphs. The implementation and execution tasks are carried out using the Python programming language.
 
 
-## Conteúdo
+## Content
 
-O projeto é dividido em duas partes principais, cada uma abordando diferentes aspectos da investigação:
+The project is divided into two main parts, each addressing different aspects of the research:
 
-- **Parte 1**: Inclui a implementação inicial do projeto, abrangendo:
-    - Entrada do arquivo .txt;
-    - Armazenamento dos dados em uma estrutura de matriz de adjacência;
-    - Verificação de adjacência entre vértices;
-    - Cálculo do grau de cada vértice;
-    - Identificação de vizinhos de um vértice específico;
-    - Exploração de todas as arestas do grafo;
-    - Aplicação de algoritmos de busca para detecção de ciclos.
+- **Part 1**: Includes the initial implementation of the project, covering:
+    - Inputting the .txt file;
+    - Storing the data in an adjacency matrix structure;
+    - Verification of adjacency between vertices;
+    - Calculating the degree of each vertex;
+    - Identifying neighbors of a specific vertex;
+    - Exploring all the edges in the graph;
+    - Search Application algorithms to detect cycles.
 
-- **Parte 2**: Trata da manipulação subsequente após gerar um novo arquivo de grafo e sua visualização:
-    - Leitura de um arquivo GEXF gerado na Parte 1;
-    - Visualização do grafo utilizando bibliotecas gráficas especializadas.
+- Part 2: Deals with the subsequent manipulation after generating a new graph file and its visualization:
+    - Reading a GEXF file generated in Part 1;
+    - Visualization of the graph using specialized graphics libraries.
 
-## Como Executar
+## How to Run
 
-Para executar o projeto, siga estas etapas:
+To run the project, follow these steps:
 
-1. **Clone este repositório em sua máquina local.**
+1. **Clone this repository on your local machine.
    ```bash
    git clone https://github.com/GabrieleAraujo/projeto_teoria_dos_grafos.git
-2. Certifique-se de ter Python instalado em seu ambiente.
+2. Make sure you have Python installed in your environment.
    ```
    python --version
-3. Instale a biblioteca NetworkX.
+3. Install the NetworkX library.
    ```
    pip install networkx
-5. Execute o script principal main.py.
+5. Run the main script main.py.
    ```bash
    python main.py
