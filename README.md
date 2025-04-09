@@ -16,7 +16,7 @@ The project is divided into two main parts, each addressing different aspects of
     - Exploring all the edges in the graph;
     - Search Application algorithms to detect cycles.
 
-- Part 2: Deals with the subsequent manipulation after generating a new graph file and its visualization:
+- **Part 2**: Deals with the subsequent manipulation after generating a new graph file and its visualization:
     - Reading a GEXF file generated in Part 1;
     - Visualization of the graph using specialized graphics libraries.
 
@@ -24,7 +24,7 @@ The project is divided into two main parts, each addressing different aspects of
 
 To run the project, follow these steps:
 
-1. **Clone this repository on your local machine**
+1. Clone this repository on your local machine
    ```bash
    git clone https://github.com/GabrieleAraujo/projeto_teoria_dos_grafos.git
 2. Make sure you have Python installed in your environment
