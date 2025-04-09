@@ -1,4 +1,4 @@
-# Graph Theory Project - Gabriele Araujo
+# Graph Theory Project
 
 This project aims to investigate data structure and DFS algorithm application for detecting cycles in graphs. The implementation and execution tasks are carried out using the Python programming language.
 
